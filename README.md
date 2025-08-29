@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Harshil Mistry!
 
-🎓 **Aspiring AI/ML & Data Analyst** | 💡 Passionate about transforming data into actionable insights | 📊 Power BI | 🐍 Python | 🧠 Machine Learning
+🎓 **Aspiring AI/ML & Data Analyst** | 💡 Passionate about transforming data into actionable insights | 📊 Power BI | 🐍 Python | 🐬MySQL | 🧠 Machine Learning | 📈Statistical Analysis | 📊Data Visualization |
 
 ---
 
@@ -36,9 +36,11 @@ Created a comprehensive dashboard analyzing sales and inventory using SQL for da
 
 ## 📜 Certifications
 
-- **IBM Data Analyst Professional Certificate** – IBM via Coursera  
+- **Data Analysis with Python** – IBM via Coursera  
 - **Machine Learning using Python** – Infosys Springboard  
-- **Introduction to Generative AI** – Google Cloud via Coursera  
+- **Introduction to Generative AI** – Google Cloud via Coursera
+- **Data Analytics Job Simulation Certificate** – Deloitte
+- **Python 101 for Data Science** – Provided by IBM via Cognitive Class
 
 ---
 
