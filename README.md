@@ -12,7 +12,7 @@ Fresher **Odoo Developer** with proven expertise in **ERP implementation, system
 
 With a strong foundation in **Python**, **Odoo ORM**, **PostgreSQL**, and **full-stack web development**, I'm passionate about building scalable enterprise solutions that solve real-world business challenges.
 
-Currently pursuing a **Bachelor's in Information Technology** (specialization in AI/ML) from R.N.G. Patel Institute of Technology with a **CGPA of 9.07**.
+Graduated with a **Bachelor's in Information Technology** (specialization in AI/ML) from R.N.G. Patel Institute of Technology with a **CGPA of 9.07**.
 
 ---
 
