@@ -2,7 +2,7 @@
 **Odoo Developer | ERP Implementation Specialist | Enterprise Software Solutions**
 
 📍 Killa-Pardi, Valsad, India | 📧 harshilvmistry07@gmail.com | 📱 +91 9974143674  
-🔗 [LinkedIn](https://linkedin.com/in/harshil-mistry) | 🧑‍💻 [GitHub](https://github.com/Harshil-Mistry027)
+🔗 [LinkedIn](www.linkedin.com/in/harshil-mistry-) | 🧑‍💻 [GitHub](https://github.com/Harshil-Mistry027)
 
 ---
 
